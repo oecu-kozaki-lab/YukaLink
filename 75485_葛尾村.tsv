@@ -1,0 +1,11 @@
+?s	?sLabel	?type	?typeLabel	?prop	?propLabel	?jwiki
+<http://www.wikidata.org/entity/Q1167153>	"双葉郡"@ja	<http://www.wikidata.org/entity/Q1122846>	"郡"@ja	<http://www.wikidata.org/entity/P150>	"直下の行政区画"@ja	<https://ja.wikipedia.org/wiki/%E5%8F%8C%E8%91%89%E9%83%A1>
+<http://www.wikidata.org/entity/Q11593387>	"福島県道154号"@ja	<http://www.wikidata.org/entity/Q34442>	"道路"@ja	<http://www.wikidata.org/entity/P609>	"起終点"@ja	<https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%9C%8C%E9%81%93154%E5%8F%B7%E5%B8%B8%E8%91%89%E9%87%8E%E5%B7%9D%E7%B7%9A>
+<http://www.wikidata.org/entity/Q11593387>	"福島県道154号"@ja	<http://www.wikidata.org/entity/Q34442>	"道路"@ja	<http://www.wikidata.org/entity/P131>	"位置する行政区画"@ja	<https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%9C%8C%E9%81%93154%E5%8F%B7%E5%B8%B8%E8%91%89%E9%87%8E%E5%B7%9D%E7%B7%9A>
+<http://www.wikidata.org/entity/Q11593495>	"福島県道253号"@ja	<http://www.wikidata.org/entity/Q34442>	"道路"@ja	<http://www.wikidata.org/entity/P609>	"起終点"@ja	<https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%9C%8C%E9%81%93253%E5%8F%B7%E8%90%BD%E5%90%88%E6%B5%AA%E6%B1%9F%E7%B7%9A>
+<http://www.wikidata.org/entity/Q15615296>	"Category:葛尾村"@ja	<http://www.wikidata.org/entity/Q4167836>	"ウィキメディアのカテゴリ"@ja	<http://www.wikidata.org/entity/P301>	"カテゴリの中心主題"@ja	<https://ja.wikipedia.org/wiki/Category:%E8%91%9B%E5%B0%BE%E6%9D%91>
+<http://www.wikidata.org/entity/Q71707>	"福島県"@ja	<http://www.wikidata.org/entity/Q50337>	"都道府県"@ja	<http://www.wikidata.org/entity/P150>	"直下の行政区画"@ja	<https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%9C%8C>
+<http://www.wikidata.org/entity/Q685491>	"二本松市"@ja	<http://www.wikidata.org/entity/Q494721>	"日本の市"@ja	<http://www.wikidata.org/entity/P47>	"隣の国又は行政区画"@ja	<https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E5%B8%82>
+<http://www.wikidata.org/entity/Q734400>	"田村市"@ja	<http://www.wikidata.org/entity/Q494721>	"日本の市"@ja	<http://www.wikidata.org/entity/P47>	"隣の国又は行政区画"@ja	<https://ja.wikipedia.org/wiki/%E7%94%B0%E6%9D%91%E5%B8%82>
+<http://www.wikidata.org/entity/Q1023937>	"浪江町"@ja	<http://www.wikidata.org/entity/Q1059478>	"日本の町"@ja	<http://www.wikidata.org/entity/P47>	"隣の国又は行政区画"@ja	<https://ja.wikipedia.org/wiki/%E6%B5%AA%E6%B1%9F%E7%94%BA>
+<http://www.wikidata.org/entity/Q56436635>	"葛尾村長"@ja	<http://www.wikidata.org/entity/Q4164871>	"職位"@ja	<http://www.wikidata.org/entity/P1001>	"管轄・適用区域"@ja	
